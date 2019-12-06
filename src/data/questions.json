@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "q": "How can you access the state of a component from inside of a member function?",
+    "options": {
+      "option1": "this.getState()",
+      "option2": "this.prototype.stateValue",
+      "option3": "this.state",
+      "option4": "this.values"
+    },
+    "correct": "option3"
+  },
+  {
+    "id": "2",
+    "q": "ReactJS is developed by _____?",
+    "options": {
+      "option1": "Amazon",
+      "option2": "Facebook",
+      "option3": "Google",
+      "option4": "Microsoft"
+    },
+    "correct": "option2"
+  }
+]
